@@ -1,7 +1,5 @@
 # AB_testing_project
 
-https://towardsdatascience.com/ab-testing-with-python-e5964dd66143
-
 This project will go over the process of analysing an A/B test, from formulating a hypothesis, testing it, and finally interpreting results. For data, we'll use a <a href='https://www.kaggle.com/zhangluyuan/ab-testing?select=ab_data.csv'>dataset from Kaggle</a> which contains the results of an A/B test for 2 different designs of a website page (old_page vs. new_page). There are 5 sections to this notebook
 
 1. Designing our experiment
