@@ -62,4 +62,4 @@ The sample size we need is estimated through something called <a href="https://r
 * **Alpha value** ($\alpha$) - The critical value we set earlier to 0.05
 * **Effect size** - How big of a difference we expect there to be between the conversion rates
 
-Since our team would be happy with a difference of 3%, we can use 13% and 16% to calculate the effect size we expect. 
+Since our team would be happy with a difference of 2%, we can use 12% and 14% to calculate the effect size we expect. 
